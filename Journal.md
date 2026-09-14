@@ -44,3 +44,17 @@ Sorry but i think the cap thing and boss will actually not work i guess this was
 
 **Total time spent: 33 minutes**
 ![Case Base](https://cdn.hackclub.com/01a09f0d-1809-7c1b-ae71-c69255b4ff9a/screenshot_2026-09-09_084842.png)
+
+## 11-09-2026 Did some dimensional changes to check if pi practically fits
+
+Today i took a 3d model available online ad using assembly feature of onshape i check if pi will fit properly in case or not and to my surprise it didn't fit well so as per it i needed to do changes in out and cavity length breadth and height and also some changes to holes not hole itself but its relative distance from cavity, its probably easy and less time taking for reviewers and people who has already did cad, but for me it was not that easy as moving pi model around the assembly thing was new to me.
+
+**Total time spent: 50 minutes**
+![Case Base](https://cdn.hackclub.com/01a09f1c-e6d4-7075-96c0-7e181871e41a/screenshot_2026-09-12_092518.png)
+
+## 12-09-2026 Length side ports half done
+
+Today is probably hardest day for this cad project, i was trying to use transform feature to add pi model inside the case itself without assembly, but it was lagging alot bcz that pi model had too much components ungrouped, i did my best and probably most of time went in this, unfortunately i was not able to achieve what i planned with using transform tool and i what i did was went to assembly and did the thing it was easy overthere and then taking reference from there and online models and cases available i made hole for ports on lenght
+
+**Total time spent: 50 minutes**
+![Case Base](https://cdn.hackclub.com/01a09f26-9649-7392-baa8-fdfc4c7fc199/image.png)
